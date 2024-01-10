@@ -3,8 +3,9 @@
 ## Description
 A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project provides an interactive and enjoyable two-player gaming experience.
 
-## Preview
-[![Tic Tac Toe Preview](path/to/your/preview/image.png)](https://your-live-demo-url)
+## Demo
+Check out the live demo: [Tic Tac Toe Demo](https://tictactoe-mykel.vercel.app/)
+
 
 ## Features
 - Clean and user-friendly interface.
@@ -14,8 +15,6 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project pro
 - Winning combinations highlighting.
 - Reset button to restart or start a new game.
 
-## Demo
-Check out the live demo: [Tic Tac Toe Demo](https://your-live-demo-url)
 
 ## Getting Started
 1. **Clone the Repository**: `git clone https://github.com/your-username/tic-tac-toe.git`
