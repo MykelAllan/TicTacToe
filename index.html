@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="index.js"></script>
+    <script src="https://kit.fontawesome.com/7d7da82275.js" crossorigin="anonymous"></script>
+</head>
+<body class="wrapper">
+    
+    <div class="container">
+        <div class="title">Tic Tac Toe</div>
+        <div class="container-players">
+
+            <div class="display">
+                <!--  ARROW ICONS
+                    <i class="fa fa-arrow-right" aria-hidden="true">< /i>
+                    <i class="fa fa-arrow-left" aria-hidden="true"></i> 
+                -->
+                <div class="score"><span class="p1-score">P1: 0</span></div>
+                <div class="score"><span class="turn-indicator"><i></i></span></div>
+                <div class="score"><span class="p2-score">P2: 0</span></div>
+            </div>
+            <div class="board">
+                <div class="row">
+                    <div class="top-row">
+                        <div id="cell0"class="box"></div>
+                        <div id="cell1"class="box"></div>
+                        <div id="cell2"class="box"></div>
+                    </div>
+                    <div class="mid-row">
+                        <div id="cell3"class="box"></div>
+                        <div id="cell4"class="box"></div>
+                        <div id="cell5"class="box"></div>
+                    </div>
+                    <div class="bottom-row">
+                        <div id="cell6"class="box"></div>
+                        <div id="cell7"class="box"></div>
+                        <div id="cell8"class="box"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="reset">
+                <button id="resetBtn"class="restart">BUTTON</button>
+            </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>
