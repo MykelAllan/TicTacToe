@@ -6,6 +6,9 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project pro
 ## Demo
 Check out the live demo: [Tic Tac Toe Demo](https://tictactoe-mykel.vercel.app/)
 
+## Preview
+![Tic Tac Toe Preview](assets/preview/preview.png)
+
 
 ## Features
 - Clean and user-friendly interface.
