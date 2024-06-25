@@ -7,7 +7,7 @@
 
 /* Container styles */
 body {
-    height: 100vh;
+    min-height: 100vh;
     background: url('assets/img/img.jpg') no-repeat;
     background-position: center;
     background-size: cover;
@@ -24,6 +24,7 @@ body {
     backdrop-filter: blur(20px);
     border-radius: 10px;
     color: #fff;
+    background: transparent;
 }
 
 /* Title styles */
